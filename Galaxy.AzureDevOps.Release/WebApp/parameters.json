@@ -23,8 +23,23 @@
         "alwaysOn": {
             "value": false
         },
-        "linuxFxVersion": {
-            "value": "DOTNETCORE|2.2"
+        "sku": {
+            "value": "Free"
+        },
+        "skuCode": {
+            "value": "F1"
+        },
+        "workerSize": {
+            "value": "0"
+        },
+        "workerSizeId": {
+            "value": "0"
+        },
+        "numberOfWorkers": {
+            "value": "1"
+        },
+        "currentStack": {
+            "value": "dotnetcore"
         }
     }
 }
