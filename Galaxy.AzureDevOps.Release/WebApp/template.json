@@ -33,7 +33,7 @@
             "name": "[parameters('name')]",
             "type": "Microsoft.Web/sites",
             "location": "[parameters('location')]",
-            "tags": null,
+            "tags": {},
             "dependsOn": [],
             "properties": {
                 "name": "[parameters('name')]",

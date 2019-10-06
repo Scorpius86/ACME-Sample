@@ -9,16 +9,16 @@
             "value": "ACME-Sample"
         },
         "location": {
-            "value": "West US"
+            "value": "Central US"
         },
         "hostingEnvironment": {
             "value": ""
         },
         "hostingPlanName": {
-            "value": "Galaxy.Linux"
+            "value": "Galaxy-Linux-Plan"
         },
         "serverFarmResourceGroup": {
-            "value": "Galaxy"
+            "value": "Galaxy.Linux"
         },
         "alwaysOn": {
             "value": false
