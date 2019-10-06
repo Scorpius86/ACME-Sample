@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Galaxy.AzureDevOps.Release.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B37BAF96-45E4-4B1D-9D02-63744BBF874E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy.AzureDevOps.Release.Client.Angular.Tests", "..\Galaxy.AzureDevOps.Release.Client.Angular.Tests\Galaxy.AzureDevOps.Release.Client.Angular.Tests.csproj", "{386D2F94-9E79-4F88-8EED-2A3476089935}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{96668778-BA0B-4F16-A9EF-BC951192CBF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96668778-BA0B-4F16-A9EF-BC951192CBF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96668778-BA0B-4F16-A9EF-BC951192CBF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386D2F94-9E79-4F88-8EED-2A3476089935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386D2F94-9E79-4F88-8EED-2A3476089935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386D2F94-9E79-4F88-8EED-2A3476089935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386D2F94-9E79-4F88-8EED-2A3476089935}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
