@@ -15,10 +15,10 @@
             "value": ""
         },
         "hostingPlanName": {
-            "value": "Galaxy-Linux-Plan"
+            "value": "Galaxy-Win-Plan"
         },
         "serverFarmResourceGroup": {
-            "value": "Galaxy.Linux"
+            "value": "Galaxy.Win"
         },
         "alwaysOn": {
             "value": false
